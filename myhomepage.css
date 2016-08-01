@@ -1,0 +1,94 @@
+#pageOne{
+	background-image: url('grass.jpg');
+	background-repeat: no-repeat;
+	background-size: 100%;
+
+}
+
+h1{
+	font-size: 100px;
+	font-family: 'Great Vibes', cursive;
+	color:#C71585;
+	position: relative;
+	/*left: 700px;*/
+	text-align: center;
+}
+
+#projects{
+	font-family: Impact, Charcoal, sans-serif;
+	color:#C71585;
+	position: relative;
+	left: 50px;
+}
+#jp{
+	font-size: 25px;
+	bottom: 5px;
+	font-family: "Times New Roman", cursive, sans-serif;
+	font-style: oblique;
+}
+#pageTwo
+p{
+	font-family: 'Slabo 27px', serif;
+	color:  #000000;
+	font-size: 20px;
+
+}
+
+a{
+	font-family: Impact, Charcoal, sans-serif;
+	color:#C71585;
+	position: relative;
+	left: 100px;
+	font-size: 200%;
+	vertical-align: 52px;
+	padding-left: 50px;
+
+}
+a{
+	font-family: Impact, Charcoal, sans-serif;
+	color:#C71585;
+	position: relative;
+	left: 100px;
+	font-size: 200%;
+
+}
+
+h2 {
+	position: relative;
+	left: 650px;
+	bottom: -20px;
+    width: 500px;
+    padding: 25px;
+    border: 25px solid #C71585;
+    margin: 25px;
+
+}
+h3{
+	font-family: "Comic Sans MS", cursive, sans-serif;
+	font-style: oblique;
+}
+
+h4{
+	position: relative;
+	left: 650px;
+	bottom: -20px;
+    width: 400px;
+    padding: 25px;
+    border: 25px solid #C71585;
+    margin: 25px;
+}
+
+
+#pageFive
+p{
+	font-family: Impact, Charcoal, sans-serif;
+	color: #0040ff;
+	font-size: 50px
+
+}
+
+p{
+	font-family: "Comic Sans MS", cursive, sans-serif;
+}
+
+
